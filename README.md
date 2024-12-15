@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidguri
-- 👀 I’m interested in Coding, Piano, Basketball, Swimming
-- 🌱 I’m currently learning React Native and Next.js
-- 📫 How to reach me: Davidguri@yahoo.com
+- 👀 I’m interested in Coding, Piano, Basketball, Swimming, Bouldering
+- 🌱 I’m currently learning Go
+- 📫 How to reach me: david@davidguri.com
 
 <!---
 davidguri/davidguri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
